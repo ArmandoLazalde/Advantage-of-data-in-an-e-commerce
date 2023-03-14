@@ -12,7 +12,10 @@ For the development of this project, I will build a synthetic database simulatin
 - [Marketing: Electronic Products and Pricing Data](https://www.kaggle.com/datasets/arashnic/e-product-pricing)
 - [Electronic products and pricing data](https://data.world/datafiniti/electronic-products-and-pricing-data)
 
-**Context:** 
+You can find the notebook in my Kaggle notebook: 
+- [Electronic products and pricing data](https://www.kaggle.com/code/armandodelahoya/e-commerce-analytics-report)
+
+***Context:***
 We are freelance data analysts and we are hired for the following project: 
 - E-commerce of electronic products wants to expand its product portfolio, so it would like to know better its customers and their respective consumption patterns, but it has only one year of operation and does not have a large database about them, however, that does not limit us because we can take advantage of the data provided. 
 
