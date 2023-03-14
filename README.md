@@ -4,6 +4,10 @@
 
 Dashboard Report📊
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99104425/225097640-8ec22d67-0c02-4b5f-9cfd-0c3321e66cd9.png" />
+</p>
+
 ![imagen](https://user-images.githubusercontent.com/99104425/225097640-8ec22d67-0c02-4b5f-9cfd-0c3321e66cd9.png)
 
 For the development of this project, I will build a synthetic database simulating an e-commerce business of electronic products. The source and inspiration are coming from the following datasets:
