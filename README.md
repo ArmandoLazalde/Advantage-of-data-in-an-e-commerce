@@ -1,4 +1,4 @@
-# E-commerce-Sales-Report
+# ake advantage of data in an e-commerce store
 
 ## E-commerce Sales Analytics
 
