@@ -1,4 +1,4 @@
-# ake advantage of data in an e-commerce store
+# Take advantage of data in an e-commerce store
 
 ## E-commerce Sales Analytics
 
