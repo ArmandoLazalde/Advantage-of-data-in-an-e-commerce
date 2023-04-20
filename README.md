@@ -44,8 +44,8 @@ We are freelance data analysts and we are hired for the following project:
 Although the dataset manipulation can be done in this notebook thanks to Pandas, I decided to integrate SQL for practice, the dashboard was done in Power BI, below, you can find the script in my GitHub repository and the link to Power BI Service to see the final result
 
 - [Github repository](https://github.com/ArmandoLazalde/E-commerce-Sales-Report)
-- [Dashboard proposal 1](https://app.powerbi.com/view?r=eyJrIjoiZjI5Y2I0NTMtNGFiNy00OTNhLThhMzAtNWFlMTAzOTUzMDAyIiwidCI6IjAyNDlhNTcxLWI5YTItNGNhMi1iOTNiLTIwYzc3MDg4ZjA4YiJ9&pageName=ReportSection)
-- [Dashboard proposal 2]()
+- [Dashboard proposal](https://app.powerbi.com/view?r=eyJrIjoiZjI5Y2I0NTMtNGFiNy00OTNhLThhMzAtNWFlMTAzOTUzMDAyIiwidCI6IjAyNDlhNTcxLWI5YTItNGNhMi1iOTNiLTIwYzc3MDg4ZjA4YiJ9&pageName=ReportSection)
+
 
 
 ![imagen](https://user-images.githubusercontent.com/99104425/225099195-8f3c6e23-a50d-44c7-834c-950552e73e40.png)
